@@ -1,14 +1,14 @@
 # Reinforcement_Learning_to_Pairs_Trading
-* This is done as FRE 7043 Capstone as a part of the Master of Science in Financial Engineering at New York University
+* 这个项目是纽约大学FRE7043的课程项目，同时也是获得纽约大学金融工程理学硕士的一部分
 
-## Algorithms used in this work
+## 算法
 * Deep Deterministic Policy Gradient
 
-## Dataset
-* We use dataset from cryptodatadownload, you can find data from [here](https://www.cryptodatadownload.com)
+## 数据
+* 本项目的数据来源是cryptodatadownload，可以从[这里](https://www.cryptodatadownload.com) 获得
 
 ## Main Reference
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
-* The whole framework is inspired by https://github.com/vermouth1992/drl-portfolio-management
-* The environment is inspired by https://github.com/wassname/rl-portfolio-management
-* DDPG implementation is inspired by http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html
+* 整体的框架参考了 https://github.com/vermouth1992/drl-portfolio-management
+* 环境部分参考了 https://github.com/wassname/rl-portfolio-management
+* DDPG的实现参考了 http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html
