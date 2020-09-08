@@ -1,11 +1,11 @@
 # Reinforcement_Learning_to_Pairs_Trading
-* 这个项目是纽约大学FRE7043的课程项目，同时也是获得纽约大学金融工程理学硕士的一部分
+* 本项目是纽约大学FRE7043的课程要求，同时也是获得纽约大学金融工程理学硕士的一部分
 
 ## 算法
 * Deep Deterministic Policy Gradient
 
 ## 数据
-* 本项目的数据来源是cryptodatadownload，可以从[这里](https://www.cryptodatadownload.com) 获得
+* 本项目的数据来源是cryptodatadownload，可以从[这里](https://www.cryptodatadownload.com)获得
 
 ## Main Reference
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
